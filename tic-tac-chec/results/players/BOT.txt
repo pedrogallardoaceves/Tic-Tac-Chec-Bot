@@ -1,0 +1,1 @@
+{'won_match': 1, 'drew_match': 0, 'lost_match': 0, 'won_games': 7, 'drew_games': 9, 'lost_games': 4, 'raised_errors': 0, 'invalid_moves': 0, 'early_movements': 0, 'max_captures_exceeded': 0, 'best_against': 'VIRGIN_DESTROYER', 'best_won_games': 7, 'worst_against': 'VIRGIN_DESTROYER', 'worst_won_games': 7}

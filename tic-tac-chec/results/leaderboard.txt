@@ -1,0 +1,3 @@
+Rank (name, won_matches, won_games, drew_matches, drew_games)
+1 ('BOT', 1, 7, 0, 9)
+2 ('VIRGIN_DESTROYER', 0, 4, 0, 9)

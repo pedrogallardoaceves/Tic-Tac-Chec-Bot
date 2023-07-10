@@ -1,0 +1,1 @@
+{'won_match': 0, 'drew_match': 0, 'lost_match': 1, 'won_games': 4, 'drew_games': 9, 'lost_games': 7, 'raised_errors': 0, 'invalid_moves': 3, 'early_movements': 0, 'max_captures_exceeded': 1, 'best_against': 'BOT', 'best_won_games': 4, 'worst_against': 'BOT', 'worst_won_games': 4}
